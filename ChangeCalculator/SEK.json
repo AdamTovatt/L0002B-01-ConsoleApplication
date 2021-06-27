@@ -1,0 +1,54 @@
+{
+  "denominations": [
+    {
+      "currencyAmount": 1000,
+      "singularName": "tusenlapp",
+      "pluralName": "tusenlappar"
+    },
+    {
+      "currencyAmount": 500,
+      "singularName": "femhundralapp",
+      "pluralName": "femhundralappar"
+    },
+    {
+      "currencyAmount": 200,
+      "singularName": "tvåhundralapp",
+      "pluralName": "tvåhundralappar"
+    },
+    {
+      "currencyAmount": 100,
+      "singularName": "hundralapp",
+      "pluralName": "hundralappar"
+    },
+    {
+      "currencyAmount": 50,
+      "singularName": "femtiolapp",
+      "pluralName": "femtiolappar"
+    },
+    {
+      "currencyAmount": 20,
+      "singularName": "tjuga",
+      "pluralName": "tjugor"
+    },
+    {
+      "currencyAmount": 10,
+      "singularName": "tiokrona",
+      "pluralName": "tiokronor"
+    },
+    {
+      "currencyAmount": 5,
+      "singularName": "femkrona",
+      "pluralName": "femkronor"
+    },
+    {
+      "currencyAmount": 2,
+      "singularName": "tvåkrona",
+      "pluralName": "tvåkronor"
+    },
+    {
+      "currencyAmount": 1,
+      "singularName": "enkrona",
+      "pluralName": "enkronor"
+    }
+  ]
+}
